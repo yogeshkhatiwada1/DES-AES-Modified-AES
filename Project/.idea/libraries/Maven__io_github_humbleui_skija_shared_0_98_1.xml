@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.humbleui:skija-shared:0.98.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/humbleui/skija-shared/0.98.1/skija-shared-0.98.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/humbleui/skija-shared/0.98.1/skija-shared-0.98.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/humbleui/skija-shared/0.98.1/skija-shared-0.98.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
